@@ -1,4 +1,4 @@
-# LABORATORY INFORMATION SYSTEM
+# LABORATORY REPORT MANAGER
 This is a project that sets the stage to build an integrated laboratory management system that laboratory scientists can rely on run their activities, and send results. You can find out more in this [YouTube video](https://youtu.be/DxRCCoJTMTs).
 
 ## The inspiration
